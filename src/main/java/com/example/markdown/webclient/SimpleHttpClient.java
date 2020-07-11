@@ -276,7 +276,7 @@ public class SimpleHttpClient {
         System.out.println(httpClient.getContent(response));
 //        HashMap headers = new HashMap();
 //        HashMap params = new HashMap();
-//        headers.put("cookie", "uuid_tt_dd=10_19421718940-1552879238977-808250; smidV2=2019032014313912dc5e664206f560d22977afd9e3b61000907372354999fe0; _ga=GA1.2.1496562676.1553508754; UN=u014229652; Hm_ct_6bcd52f51e9b3dce32bec4a3997715ac=5744*1*u014229652!6525*1*10_19421718940-1552879238977-808250; dc_session_id=10_1562555978930.651271; UserName=u014229652; UserInfo=5da3f3220eae4655a780c3bea2f14c23; UserToken=5da3f3220eae4655a780c3bea2f14c23; UserNick=%E5%85%AD%E5%8F%94_; AU=8F1; BT=1565602394318; p_uid=U000000; Hm_lvt_6bcd52f51e9b3dce32bec4a3997715ac=1563853925,1565602395; bubble=true; aliyun_webUmidToken=TB5C04671693B053AF7CF03C64FA25E5CAD3E5F4AEA69556A63CD6D3CF5; firstDie=1; dc_tos=py47tq");
+//        headers.put("cookieCSDNStr", "uuid_tt_dd=10_19421718940-1552879238977-808250; smidV2=2019032014313912dc5e664206f560d22977afd9e3b61000907372354999fe0; _ga=GA1.2.1496562676.1553508754; UN=u014229652; Hm_ct_6bcd52f51e9b3dce32bec4a3997715ac=5744*1*u014229652!6525*1*10_19421718940-1552879238977-808250; dc_session_id=10_1562555978930.651271; UserName=u014229652; UserInfo=5da3f3220eae4655a780c3bea2f14c23; UserToken=5da3f3220eae4655a780c3bea2f14c23; UserNick=%E5%85%AD%E5%8F%94_; AU=8F1; BT=1565602394318; p_uid=U000000; Hm_lvt_6bcd52f51e9b3dce32bec4a3997715ac=1563853925,1565602395; bubble=true; aliyun_webUmidToken=TB5C04671693B053AF7CF03C64FA25E5CAD3E5F4AEA69556A63CD6D3CF5; firstDie=1; dc_tos=py47tq");
 //        params.put("shuiyin", "2");
 //        HttpResponse httpResponse = httpClient.post(
 //                "https://mp.csdn.net/UploadImage",
